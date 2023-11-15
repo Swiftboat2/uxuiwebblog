@@ -1,0 +1,64 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  
+  header {
+    background-color: #f8f9fa;
+  }
+
+  
+img {
+    border: 2px solid #007bff; 
+  }
+  
+
+  img.mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+
+  ul.list-inline {
+    padding: 0;
+  }
+  
+
+  .card {
+    margin-bottom: 20px;
+  }
+  
+ 
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover; 
+}
+
+.cards {
+  margin-top: 102px;
+}
+.cards1 {
+  margin-bottom: 30px;
+}
+  form {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
